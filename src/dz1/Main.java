@@ -48,5 +48,4 @@ public class Main {
         else
             System.out.println("Год " + year + " не високосный");
     }
-
 }
